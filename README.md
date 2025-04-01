@@ -30,3 +30,21 @@ We manually collect and filter text-free, open-source and unrestricted videos fr
 
 - ### Installation
 On process
+
+- ### Training 
+On process
+
+## Cite
+If you wish to refer to the baseline results published here, please use the following BibTeX entries:
+
+```BibTeX
+@misc{liuvimts,
+          author={Liu, Yuliang and Huang, Mingxin and Yan, Hao and Deng, Linger and Wu, Weijia and Lu, Hao and Shen, Chunhua and Jin, Lianwen and Bai, Xiang},
+          title={VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization}, 
+          publisher={arXiv preprint arXiv:2404.19652},
+          year={2024},
+}
+```
+
+## Copyright
+We welcome suggestions to help us improve the VimTS. For any query, please contact Prof. Yuliang Liu: ylliu@hust.edu.cn. If you find something interesting, please also feel free to share with us through email or open an issue. Thanks!
