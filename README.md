@@ -16,3 +16,17 @@
 ## Framework
 
 Overall framework of our method.
+
+## VTD-368K
+
+We manually collect and filter text-free, open-source and unrestricted videos from NExT-QA, Charades-Ego, Breakfast, A2D, MPI-Cooking, ActorShift and Hollywood. By utilizing the CoDeF, our synthetic method facilitates the achievement of realistic and stable text flow propagation, significantly reducing the occurrence of distortions.
+
+
+<p align="center">
+    <img src="https://v1.ax1x.com/2024/05/02/7KiW25.jpg" width="888"/>
+<p>
+
+## Getting Started
+
+- ### Installation
+On process
