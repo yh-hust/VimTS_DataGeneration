@@ -31,7 +31,7 @@ We manually collect and filter text-free, open-source and unrestricted videos fr
 - ### Installation
 On process
 
-- ### Training 
+- ### Data Genration
 On process
 
 ## Cite
