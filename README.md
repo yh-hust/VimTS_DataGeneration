@@ -13,9 +13,13 @@
 
 <h2></h2>
 
-## Framework
+## Overall framework of CoDeF-based synthetic method
 
 Overall framework of our method.
+
+<p align="center">
+    <img src="https://v1.ax1x.com/2024/05/02/7KiuUb.png" width="666"/>
+<p>
 
 ## VTD-368K
 
