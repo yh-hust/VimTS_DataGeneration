@@ -15,7 +15,7 @@
 
 ## Overall framework of CoDeF-based synthetic method
 
-Overall framework of our method.
+Overall framework of our CoDeF-based method.
 
 <p align="center">
     <img src="https://v1.ax1x.com/2024/05/02/7KiuUb.png" width="666"/>
