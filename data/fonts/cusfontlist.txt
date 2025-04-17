@@ -1,0 +1,152 @@
+./englishfonts/AlbertinaMTPro-Regular/AlbertinaMTPro-Regular.ttf
+./englishfonts/28f6bd597b92bcd2b5757517ea307d24/28f6bd597b92bcd2b5757517ea307d24.ttf
+./englishfonts/geometrixblack/geometrixblack.ttf
+./englishfonts/Cantiqe Regular/Cantiqe Regular.ttf
+./englishfonts/Tanseek Mod Pro Arabic Book/Tanseek Mod Pro Arabic Book.ttf
+./englishfonts/neueVektor-CNC-Regular/neueVektor-CNC-Regular.otf
+./englishfonts/Ledare-MediumPERSONALUSEONLY/Ledare-MediumPERSONALUSEONLY.otf
+./englishfonts/49d2b7b03cc11408e211b7dac40970fa/49d2b7b03cc11408e211b7dac40970fa.ttf
+./englishfonts/cretype - Geon/cretype - Geon.otf
+./englishfonts/RO021__/RO021__.PFB.ttf
+./englishfonts/Karben_205 W05 Bold/Karben_205 W05 Bold.ttf
+./englishfonts/Home Run San Script/Home Run San Script.otf
+./englishfonts/b1d6c293157d9b9473395981fa6624c1/b1d6c293157d9b9473395981fa6624c1.ttf
+./englishfonts/FuturaTS-Heavy/FuturaTS-Heavy.ttf
+./englishfonts/35c47d45f16017aceaf6c729c6be303a/35c47d45f16017aceaf6c729c6be303a.ttf
+./englishfonts/Monotype - Helvetica Now Micro ExtraBold/Monotype - Helvetica Now Micro ExtraBold.otf
+./englishfonts/772d37f21b7de2163bc7e539f7faeafa/772d37f21b7de2163bc7e539f7faeafa.ttf
+./englishfonts/WeddingGothicATF-Medium/WeddingGothicATF-Medium.ttf
+./englishfonts/9155b723e84a59c2d9d603c5d1cbb988/9155b723e84a59c2d9d603c5d1cbb988.ttf
+./englishfonts/HelveticaNowMicro/HelveticaNowMicro.otf
+./englishfonts/Balloon No2/Balloon No2.otf
+./englishfonts/Nimbus Sans Novus D OT-emBol/Nimbus Sans Novus D OT-emBol.otf
+./englishfonts/Humanst 521 BTW/82fc9b9d92a983a3fbd5b79674dd5a2d.ttf
+./englishfonts/broadway-caps/broadway-caps.ttf
+./englishfonts/BrandingSF-CndSemiBold/BrandingSF-CndSemiBold.ttf
+./englishfonts/CGTriumvirate-Inserat/CGTriumvirate-Inserat.ttf
+./englishfonts/09caf179fc086c358756afea32ca5eaf/09caf179fc086c358756afea32ca5eaf.ttf
+./englishfonts/Alfons Sans W05 Bold/Alfons Sans W05 Bold.ttf
+./englishfonts/cibola/cibola.ttf
+./englishfonts/TT Polls Script Regular/TT Polls Script Regular.otf
+./englishfonts/VAG Rounded Cyrillic Bold/VAG Rounded Cyrillic Bold.otf
+./englishfonts/EuropaGroteskSH-Bol/EuropaGroteskSH-Bol.otf
+./englishfonts/EuropaGroteskSH-Lig/EuropaGroteskSH-Lig.otf
+./englishfonts/Roves Sans Reg Rough/Roves Sans Reg Rough.ttf
+./englishfonts/AlbertinaMTPro-BoldItalic/AlbertinaMTPro-BoldItalic.ttf
+./englishfonts/EuropaGroteskSH-Reg/EuropaGroteskSH-Reg.otf
+./englishfonts/7561f6beedb81ec2001decb5a37d2d84/7561f6beedb81ec2001decb5a37d2d84.ttf
+./englishfonts/HelveticaNowDisplay/HelveticaNowDisplay.ttf
+./englishfonts/Blooming Elegant Sans W05 Rg/Blooming Elegant Sans W05 Rg.ttf
+./englishfonts/broadway/broadway.ttf
+./englishfonts/tui-helvetica-neue-cond/tui-helvetica-neue-cond.ttf
+./englishfonts/Ela Sans SemiBold/Ela Sans SemiBold.ttf
+./englishfonts/EuropaGroteskSH-Ex/EuropaGroteskSH-Ex.otf
+./englishfonts/ClarendonURWTCY/ClarendonURWTCY.otf
+./englishfonts/3369367874fc04b0a646d42065d2ff15/3369367874fc04b0a646d42065d2ff15.ttf
+./englishfonts/FFEurekaSansMedium/82fc9b9d92a983a3fbd5b79674dd5a2d.ttf
+./englishfonts/Bogue-Bold/Bogue-Bold.otf
+./englishfonts/RO061__/RO061__.PFB.ttf
+./englishfonts/GillSansMTSC/GillSansMTSC.ttf
+./englishfonts/Sequel Sans Display Roman/Sequel Sans Display Roman.ttf
+./englishfonts/Roves Sans Bold Rough/Roves Sans Bold Rough.ttf
+./englishfonts/67f7175e107b48167b100f757d0f0331/67f7175e107b48167b100f757d0f0331.ttf
+./englishfonts/GillSans/GillSans.ttf
+./englishfonts/02f84c48c43aba61ef30f0dd958ca750/02f84c48c43aba61ef30f0dd958ca750.ttf
+./englishfonts/Bogue-Medium/Bogue-Medium.otf
+./englishfonts/Karben205Mono-Medium/Karben205Mono-Medium.otf
+./englishfonts/NimbusSans-Regular/NimbusSans-Regular.otf
+./englishfonts/Squick Densa/Squick Densa.otf
+./englishfonts/19f14278db2091faf097b002a56a42f0/19f14278db2091faf097b002a56a42f0.ttf
+./englishfonts/EuropaGroteskSH-Med/EuropaGroteskSH-Med.otf
+./englishfonts/Tural Alisoy - FilmFictionSans-Bold/Tural Alisoy - FilmFictionSans-Bold.otf
+./englishfonts/Zolina-SemiBold/Zolina-SemiBold.ttf
+./englishfonts/4bc4bcc988d8598062245e957e3e4c0d/4bc4bcc988d8598062245e957e3e4c0d.ttf
+./englishfonts/Ledare-BoldPERSONALUSEONLY/Ledare-BoldPERSONALUSEONLY.otf
+./englishfonts/geometrixmedium/geometrixmedium.ttf
+./englishfonts/broadway-poster-bold/broadway-poster-bold.ttf
+./englishfonts/SaaSeriesEMD/SaaSeriesEMD.otf
+./englishfonts/Goldbill-XSRegular/Goldbill-XSRegular.ttf
+./englishfonts/011a68ea881cfaf49c3cc2fec7b5e47a/011a68ea881cfaf49c3cc2fec7b5e47a.ttf
+./englishfonts/Gumela Regular/Gumela Regular.otf
+./englishfonts/AplikaziaMFCond Light/8ca362f98f2fbd9eae9f7add1914f44a.ttf
+./englishfonts/Alpine Script W05 Regular/Alpine Script W05 Regular.ttf
+./englishfonts/IntropolBold/82fc9b9d92a983a3fbd5b79674dd5a2d.ttf
+./englishfonts/Humanist 521/Humanist 521.ttf
+./englishfonts/GillSansMTBook/GillSansMTBook.ttf
+./englishfonts/anb/anb.ttf
+./englishfonts/AlbertinaMTPro-Regular/AlbertinaMTPro-Regular.ttf
+./englishfonts/28f6bd597b92bcd2b5757517ea307d24/28f6bd597b92bcd2b5757517ea307d24.ttf
+./englishfonts/geometrixblack/geometrixblack.ttf
+./englishfonts/Cantiqe Regular/Cantiqe Regular.ttf
+./englishfonts/Tanseek Mod Pro Arabic Book/Tanseek Mod Pro Arabic Book.ttf
+./englishfonts/neueVektor-CNC-Regular/neueVektor-CNC-Regular.otf
+./englishfonts/Ledare-MediumPERSONALUSEONLY/Ledare-MediumPERSONALUSEONLY.otf
+./englishfonts/49d2b7b03cc11408e211b7dac40970fa/49d2b7b03cc11408e211b7dac40970fa.ttf
+./englishfonts/cretype - Geon/cretype - Geon.otf
+./englishfonts/RO021__/RO021__.PFB.ttf
+./englishfonts/Karben_205 W05 Bold/Karben_205 W05 Bold.ttf
+./englishfonts/Home Run San Script/Home Run San Script.otf
+./englishfonts/b1d6c293157d9b9473395981fa6624c1/b1d6c293157d9b9473395981fa6624c1.ttf
+./englishfonts/FuturaTS-Heavy/FuturaTS-Heavy.ttf
+./englishfonts/35c47d45f16017aceaf6c729c6be303a/35c47d45f16017aceaf6c729c6be303a.ttf
+./englishfonts/Monotype - Helvetica Now Micro ExtraBold/Monotype - Helvetica Now Micro ExtraBold.otf
+./englishfonts/772d37f21b7de2163bc7e539f7faeafa/772d37f21b7de2163bc7e539f7faeafa.ttf
+./englishfonts/WeddingGothicATF-Medium/WeddingGothicATF-Medium.ttf
+./englishfonts/9155b723e84a59c2d9d603c5d1cbb988/9155b723e84a59c2d9d603c5d1cbb988.ttf
+./englishfonts/HelveticaNowMicro/HelveticaNowMicro.otf
+./englishfonts/Balloon No2/Balloon No2.otf
+./englishfonts/Nimbus Sans Novus D OT-emBol/Nimbus Sans Novus D OT-emBol.otf
+./englishfonts/Humanst 521 BTW/82fc9b9d92a983a3fbd5b79674dd5a2d.ttf
+./englishfonts/broadway-caps/broadway-caps.ttf
+./englishfonts/BrandingSF-CndSemiBold/BrandingSF-CndSemiBold.ttf
+./englishfonts/CGTriumvirate-Inserat/CGTriumvirate-Inserat.ttf
+./englishfonts/09caf179fc086c358756afea32ca5eaf/09caf179fc086c358756afea32ca5eaf.ttf
+./englishfonts/Alfons Sans W05 Bold/Alfons Sans W05 Bold.ttf
+./englishfonts/cibola/cibola.ttf
+./englishfonts/TT Polls Script Regular/TT Polls Script Regular.otf
+./englishfonts/VAG Rounded Cyrillic Bold/VAG Rounded Cyrillic Bold.otf
+./englishfonts/EuropaGroteskSH-Bol/EuropaGroteskSH-Bol.otf
+./englishfonts/EuropaGroteskSH-Lig/EuropaGroteskSH-Lig.otf
+./englishfonts/Roves Sans Reg Rough/Roves Sans Reg Rough.ttf
+./englishfonts/AlbertinaMTPro-BoldItalic/AlbertinaMTPro-BoldItalic.ttf
+./englishfonts/EuropaGroteskSH-Reg/EuropaGroteskSH-Reg.otf
+./englishfonts/7561f6beedb81ec2001decb5a37d2d84/7561f6beedb81ec2001decb5a37d2d84.ttf
+./englishfonts/HelveticaNowDisplay/HelveticaNowDisplay.ttf
+./englishfonts/Blooming Elegant Sans W05 Rg/Blooming Elegant Sans W05 Rg.ttf
+./englishfonts/broadway/broadway.ttf
+./englishfonts/tui-helvetica-neue-cond/tui-helvetica-neue-cond.ttf
+./englishfonts/Ela Sans SemiBold/Ela Sans SemiBold.ttf
+./englishfonts/EuropaGroteskSH-Ex/EuropaGroteskSH-Ex.otf
+./englishfonts/ClarendonURWTCY/ClarendonURWTCY.otf
+./englishfonts/3369367874fc04b0a646d42065d2ff15/3369367874fc04b0a646d42065d2ff15.ttf
+./englishfonts/FFEurekaSansMedium/82fc9b9d92a983a3fbd5b79674dd5a2d.ttf
+./englishfonts/Bogue-Bold/Bogue-Bold.otf
+./englishfonts/RO061__/RO061__.PFB.ttf
+./englishfonts/GillSansMTSC/GillSansMTSC.ttf
+./englishfonts/Sequel Sans Display Roman/Sequel Sans Display Roman.ttf
+./englishfonts/Roves Sans Bold Rough/Roves Sans Bold Rough.ttf
+./englishfonts/67f7175e107b48167b100f757d0f0331/67f7175e107b48167b100f757d0f0331.ttf
+./englishfonts/GillSans/GillSans.ttf
+./englishfonts/02f84c48c43aba61ef30f0dd958ca750/02f84c48c43aba61ef30f0dd958ca750.ttf
+./englishfonts/Bogue-Medium/Bogue-Medium.otf
+./englishfonts/Karben205Mono-Medium/Karben205Mono-Medium.otf
+./englishfonts/NimbusSans-Regular/NimbusSans-Regular.otf
+./englishfonts/Squick Densa/Squick Densa.otf
+./englishfonts/19f14278db2091faf097b002a56a42f0/19f14278db2091faf097b002a56a42f0.ttf
+./englishfonts/EuropaGroteskSH-Med/EuropaGroteskSH-Med.otf
+./englishfonts/Tural Alisoy - FilmFictionSans-Bold/Tural Alisoy - FilmFictionSans-Bold.otf
+./englishfonts/Zolina-SemiBold/Zolina-SemiBold.ttf
+./englishfonts/4bc4bcc988d8598062245e957e3e4c0d/4bc4bcc988d8598062245e957e3e4c0d.ttf
+./englishfonts/Ledare-BoldPERSONALUSEONLY/Ledare-BoldPERSONALUSEONLY.otf
+./englishfonts/geometrixmedium/geometrixmedium.ttf
+./englishfonts/broadway-poster-bold/broadway-poster-bold.ttf
+./englishfonts/SaaSeriesEMD/SaaSeriesEMD.otf
+./englishfonts/Goldbill-XSRegular/Goldbill-XSRegular.ttf
+./englishfonts/011a68ea881cfaf49c3cc2fec7b5e47a/011a68ea881cfaf49c3cc2fec7b5e47a.ttf
+./englishfonts/Gumela Regular/Gumela Regular.otf
+./englishfonts/AplikaziaMFCond Light/8ca362f98f2fbd9eae9f7add1914f44a.ttf
+./englishfonts/Alpine Script W05 Regular/Alpine Script W05 Regular.ttf
+./englishfonts/IntropolBold/82fc9b9d92a983a3fbd5b79674dd5a2d.ttf
+./englishfonts/Humanist 521/Humanist 521.ttf
+./englishfonts/GillSansMTBook/GillSansMTBook.ttf
+./englishfonts/anb/anb.ttf
