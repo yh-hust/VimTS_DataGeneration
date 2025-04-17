@@ -1,4 +1,4 @@
-# VimTS synthetic method
+# VTD synthetic method
 
 <h3 align="center"> <a href="https://arxiv.org/abs/2404.19652">VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization</a></h3>
 
