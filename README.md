@@ -30,6 +30,8 @@ We manually collect and filter text-free, open-source and unrestricted videos fr
     <img src="https://v1.ax1x.com/2024/05/02/7KiW25.jpg" width="888"/>
 <p>
 
+Training data can be downloaded from [Link] (https://pan.baidu.com/s/17QwXwWRAc7HBQlwp9AQ-og?pwd=kx88)
+
 ## Getting Started
 
 - ### Installation
